@@ -1,0 +1,1 @@
+[(0, 'Industrial'), (1, 'Pasture'), (2, 'Residential'), (3, 'River'), (4, 'Highway'), (5, 'PermanentCrop'), (6, 'HerbaceousVegetation'), (7, 'SeaLake'), (8, 'Forest'), (9, 'AnnualCrop')]
